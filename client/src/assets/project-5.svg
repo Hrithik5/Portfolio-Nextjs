@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#0B433C" />
+  <circle cx="250" cy="200" r="120" fill="#13786B" />
+  <circle cx="550" cy="200" r="120" fill="#13786B" />
+  <rect x="200" y="150" width="400" height="100" fill="#13786B" />
+  <polyline points="200,150 250,100 550,100 600,150" fill="#13786B" />
+  <rect x="325" y="175" width="150" height="50" rx="5" fill="#1FB099" />
+  <text x="50%" y="20%" text-anchor="middle" font-family="Arial" font-size="30" fill="#ffffff">Observability Platform</text>
+  <text x="50%" y="85%" text-anchor="middle" font-family="Arial" font-size="20" fill="#ffffff">Prometheus & Grafana</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#0E524A" />
+  <circle cx="400" cy="150" r="100" fill="#117F6E" />
+  <path d="M400 100 L430 180 L360 130 L440 130 L370 180 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2" />
+  <rect x="300" y="250" width="200" height="50" rx="10" fill="#19B59A" />
+  <text x="50%" y="70%" text-anchor="middle" font-family="Arial" font-size="28" fill="#ffffff">Security Automation</text>
+  <text x="50%" y="80%" text-anchor="middle" font-family="Arial" font-size="18" fill="#ffffff">AWS Security Hub</text>
+</svg>
